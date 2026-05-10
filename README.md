@@ -14,9 +14,12 @@
 <h2>The Supply</h2>
 <p>The original desing was to Use small batteries, here came the problem batteries can work but the Rasberry worked on a really specific Volatge and if we wanted to do with batteries we would have been forced to make a buck converter to ensure that the rasberry always got the stable and reliable voltage that it needs to be on for smooth running, so we distracked the idea and went on another way. After some research we come accross the solution ""Power bank". An everyday use item that we use for charging phones,tablets,ect. Is perfect for our rasberry since it gives</p>
 <ol>
-<li>stable power</li>
-<li>we can recharge it </li>
-<li>we dont have to built other things for it to work </li>
-<li>and becouse everyone has or have a friend who have it we could instantly start to desinge around it</li>
+<li>Stable power</li>
+<li>We can recharge it </li>
+<li>We dont have to built other things for it to work </li>
+<li>Becouse everyone have a friend who have it we could instantly start to desinge around it</li>
 <ol>
+<h2>The Desinge</h2>
+<p>The 1st desinge was made after we setteled down for the power bank we already knew that what sensors are we going to use what motors so we started  </p>
+                 
 
