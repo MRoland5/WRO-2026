@@ -26,7 +26,7 @@ Locomotion is achieved using <b>N20 6V 30 RPM DC motors</b>.
   <li>Controller: Raspberry Pi 4</li>
   <li>Motors: N20 DC Gear Motors (6V, 30 RPM)</li>
   <li>Power Supply: VARTA 10000mAh battery pack</li>
-  <li>Chassis: 3D printed structural frame</li>
+  <li>Chassis: Steel base frame </li>
 </ul>
 
 <h2>Torque and Speed Selection Rationale</h2>
@@ -51,21 +51,21 @@ This balance ensures that the robot maintains reliable traction while still achi
 
 <h2>Design Iterations and Development Process</h2>
 
-<h3>Initial Concept – LEGO Prototype</h3>
+<h3>Initial Concept – LEGO Axels</h3>
 <p>
-The first prototype was constructed using LEGO components to quickly validate mechanical concepts.
-However, significant structural deformation occurred under load, particularly around the chassis center and power unit mounting points.
+The first prototype axel was constructed using LEGO components to quickly validate mechanical concepts.
+However, significant structural deformation occurred under load.
 </p>
 <h3>Second Iteration – Steel Frame</h3>
 <p>
-The next version utilized a laser-cut steel frame to improve rigidity.
+The next version utilized a a steel axel using cnc machine  to improve rigidity.
 While structural strength increased significantly, the system became overly heavy, resulting in reduced motor efficiency and higher current draw.
-This negatively impacted battery life and acceleration performance.
+This negatively impacted battery life and acceleration performance as well as the need of specific gears while.
 </p>
 <h3>Final Design – 3D Printed Chassis</h3>
 <p>
-The final iteration adopted a 3D printed chassis, optimized for both weight reduction and structural integrity.
-This solution provided the best balance between stiffness, weight, and manufacturability.
+The final idea was a 3D printed axel, optimized for both weight reduction and structural integrity.
+This solution provided the best balance between stiffness, weight, and manufacturability not only it was avelable intantly for us it also made gave us the oppurtunity to desinge 3D the axel it also made our life easier with the gears becouse we could print them out as well.
 </p>
 <h2>Impact of Testing and Iteration</h2>
 <p>
@@ -91,7 +91,7 @@ Through iterative testing, the final design significantly improved:
 <h2>Final System Evaluation</h2>
 <p>
 The final robot configuration demonstrates a balanced engineering approach where mechanical design, power efficiency, and control precision are optimized together.
-The combination of Raspberry Pi control, N20 geared motors, and a lightweight 3D printed structure ensures consistent performance in competition scenarios.
+The combination of Raspberry Pi control, N20 geared motors,steel base and a lightweight 3D printed axels and gears ensures consistent performance in competition scenarios.
 </p>
 </body>
 </html>
