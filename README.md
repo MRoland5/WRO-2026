@@ -1,6 +1,6 @@
 # WRO-2026
-##Introduction To The Team
--Hatala Daniel Electrical Engeneer student at VTS Subotica 2nd year
+## Introduction To The Team
+- Hatala Daniel Electrical Engeneer student at VTS Subotica 2nd year
 ##The Base
 -
 <p align="center">
