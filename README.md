@@ -20,6 +20,7 @@
 <li>Becouse everyone have a friend who have it we could instantly start to desinge around it</li>
 </ol>
 <h2>The Desinge</h2>
-<p>The 1st desinge was made after we setteled down for the power bank we already knew that what sensors are we going to use what motors so we started  </p>
+<p>The 1st desinge was made after we setteled down for the power bank we already knew that what sensors are we going to use what motors so we started.
+The problem continued even after the base was bought into alive, we dont have back or front axel,after research we had two options we either doing it with a strong type of metal or 3D print it out it will be less sturdy but time was runing out and using cnc to perfect axels wait for metal gears as well just didnt seem the right option do to.</p>
                  
 
