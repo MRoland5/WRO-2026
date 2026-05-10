@@ -1,5 +1,5 @@
 # WRO-2026
-## Introduction To The Team
+<h2>Introduction To The Team</h2>
 - Hatala Dániel Electrical Engeneer student at VTS Subotica 2nd year
 - Német Dominik Mechatronics Engineer student at VTS Subotica 2nd year
 - Majoros Roland Mechatronics Engineer student at VTS Subotica 2nd year
