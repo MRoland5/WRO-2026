@@ -62,7 +62,7 @@ The next version utilized a a steel axel using cnc machine  to improve rigidity.
 While structural strength increased significantly, the system became overly heavy, resulting in reduced motor efficiency and higher current draw.
 This negatively impacted battery life and acceleration performance as well as the need of specific gears while.
 </p>
-<h3>Final Design – 3D Printed Chassis</h3>
+<h3>Final Design – 3D Printed Axels</h3>
 <p>
 The final idea was a 3D printed axel, optimized for both weight reduction and structural integrity.
 This solution provided the best balance between stiffness, weight, and manufacturability not only it was avelable intantly for us it also made gave us the oppurtunity to desinge 3D the axel it also made our life easier with the gears becouse we could print them out as well.
