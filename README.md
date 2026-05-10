@@ -8,5 +8,5 @@
   <img width="400" height="600" src="https://github.com/MRoland5/WRO-2026/blob/e7e9fee8dad12e2c70cec98e0c9f699543dcbcf2/Photos/image%20(1).png">
 </p>
 - We were all proud of this desinge but then the 1st problem came in "What will be our supply?"
-## The Supply
+### The Supply
 - 
