@@ -12,6 +12,7 @@
 <li>Német Dominik Mechatronics Engineer student at VTS Subotica 2nd year</li>
 <li>Majoros Roland Mechatronics Engineer student at VTS Subotica 2nd year</li>
 <li>With the base we had quite a few difficulties, for starters we did know we wanted to build a car thats reliable and a one we can be proud of. The 1st big problem we got into what will be our standard look a V shape a Cube we do more floors we all accunted those and came up with a little sketch</li>
+<img width="400" height="600" https://github.com/MRoland5/WRO-2026/blob/d4c010425c326278c10e56961478d99546dc7c18/Photos/image%20(1).png />
 
 <h2>Project Overview</h2>
 <p>
