@@ -1,2 +1,2 @@
 # WRO-2026
-![image alt](https://github.com/MRoland5/WRO-2026/blob/main/Photos/image%20(1).png?raw=true)
+<img scr="https://github.com/MRoland5/WRO-2026/blob/main/Photos/image%20(1).png?raw=true" width="250" height="250">
