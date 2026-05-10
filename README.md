@@ -18,7 +18,7 @@
 <li>We can recharge it </li>
 <li>We dont have to built other things for it to work </li>
 <li>Becouse everyone have a friend who have it we could instantly start to desinge around it</li>
-<ol>
+</ol>
 <h2>The Desinge</h2>
 <p>The 1st desinge was made after we setteled down for the power bank we already knew that what sensors are we going to use what motors so we started  </p>
                  
